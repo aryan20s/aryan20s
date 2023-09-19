@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan20sri&label=Profile%20views&color=0e75b6&style=flat" alt="aryan20sri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan20sri" alt="aryan20sri" /></a> </p>
-
 - 🔭 I’m currently working on [a Gameboy emulator in Rust](https://github.com/aryan20sri/gameboy_RS)
 
 - 🌱 I’m currently learning **C++, Java**
