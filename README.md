@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Gameboy emulator in Rust](https://github.com/aryan20sri/gameboy_RS)
 
-- 🌱 I’m currently learning **C++, Java**
+- 🌱 I’m currently learning **Japanese, C++**
 
 - 👯 I’m looking to collaborate on **gamedev, reverse engineering projects**
 
