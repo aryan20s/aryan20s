@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
+[![An image of @aryan20s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan20s)](https://holopin.io/@aryan20s)
 <h3 align="center">A passionate low-level developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan20sri&label=Profile%20views&color=0e75b6&style=flat" alt="aryan20sri" /> </p>
