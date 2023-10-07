@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
-[![An image of @aryan20s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@aryan20s)](https://holopin.io/@aryan20s)
+[![An image of @aryan20s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan20s)](https://holopin.io/@aryan20s)
 <h3 align="center">A passionate low-level developer from India</h3>
 
 - 🔭 I’m currently working on [a Gameboy emulator in Rust](https://github.com/aryan20sri/gameboy_RS)
