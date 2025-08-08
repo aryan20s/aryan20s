@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">A passionate low-level developer from India</h3>
 
-[![An image of @aryan20s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan20s)](https://holopin.io/@aryan20s)
-
 - 🔭 I’m currently working on [a Gameboy emulator in Rust](https://github.com/aryan20s/gameboy_RS)
 
 - 🌱 I’m currently learning **Japanese, C++**
@@ -10,14 +8,6 @@
 - 👯 I’m looking to collaborate on **gamedev, reverse engineering projects**
 
 - 💬 Ask me about **x86 assembly, low level programming**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/oreo1425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oreo1425" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryan20sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryan20sri" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
